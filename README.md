@@ -1,0 +1,1 @@
+This is the recipes project from The Odin Project Foundations course. I will be assembling a basic list of recipes using HTML to put into practice the HTML skills I've learned.
