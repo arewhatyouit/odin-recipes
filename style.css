@@ -1,0 +1,48 @@
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.overall {
+    align-items: center;
+}
+
+.imgsize {
+    width: 1000px;
+    border-radius: 25px;
+    margin-top: 50px;
+    align-items: center;
+    justify-items: center;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: column;
+    width:1000px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+
+.des {
+    background-color: rgb(252, 127, 152);
+    font-weight: 600;
+}
+
+.ingredients {
+    background-color: rgb(255, 211, 129);
+    text-align: left;
+}
+
+.steps {
+    background-color: rgb(170, 255, 255);
+    text-align: left;
+}
+
+.landing {
+    background-color: rgb(216, 255, 177);
+    align-items: center;
+    padding-bottom: 30px;
+    width:800px;
+}
